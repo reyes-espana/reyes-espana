@@ -1,4 +1,4 @@
-![MasterHead](https://www.synopsys.com/blogs/software-security/wp-content/uploads/2022/06/BannerEnterpriseSoftware2.png)
+![MasterHead](https://cdn.acunetix.com/wp_content/uploads/2021/05/ACX-Business-oriented-cybersecurity-non-technical-SEO-posts-1000x525-1.png)
 
 <h1 align="center">Hi 👋, I'm Daniela</h1>
 <h3 align="center">Aspiring DevSecOps Engineer</h3>
