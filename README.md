@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.acunetix.com/wp_content/uploads/2021/05/ACX-Business-oriented-cybersecurity-non-technical-SEO-posts-1000x525-1.png)
 
 <h1 align="center">Hi 👋, I'm Daniela</h1>
-<h3 align="center">Aspiring DevSecOps Engineer</h3>
+<h3 align="center">Aspiring Application Security Engineer</h3>
 
 - 🌱 I’m currently improving my skills with the **Microsoft Power Platform**
 
