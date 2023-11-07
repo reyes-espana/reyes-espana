@@ -1,6 +1,4 @@
-
-![Penetration-Testing_8-min](https://github.com/reyes-espana/reyes-espana/assets/112185740/4799798d-b1ca-4922-abb1-9356f6b86229)
-
+![key-click-typing-1](https://github.com/reyes-espana/reyes-espana/assets/112185740/3aaeadcc-33b5-4fac-8a67-d46c8821ea96)
 
 <h1 align="center">Hi 👋, I'm Daniela</h1>
 <h3 align="center">Aspiring Application Security Engineer</h3>
